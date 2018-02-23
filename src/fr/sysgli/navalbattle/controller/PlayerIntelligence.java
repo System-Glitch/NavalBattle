@@ -146,7 +146,7 @@ public final class PlayerIntelligence {
 					
 				} else {
 					direction = 0;
-					triedUp = true;
+					triedDown = true;
 					play(enemy);
 				}
 				

@@ -63,7 +63,7 @@ public class BoardController implements Observer_ {
 		} else if(player.equals(this.enemy)) { //Enemy played
 			if(this.player.isDead()) {
 				revealGrid(enemy);
-				infoLabel.setText("Vous lose !");
+				infoLabel.setText("You lose !");
 			} else {
 				turn++;
 				infoLabel.setText("Turn: " + turn);
