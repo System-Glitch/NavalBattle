@@ -1,0 +1,3 @@
+GridPane > *:hover {
+    -fx-border-color: #000000;
+}
