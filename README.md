@@ -24,4 +24,4 @@ Once the game is over, the enemy's grid is revealed.
 
 ![Game ended screenshot](https://i.imgur.com/cyEv29Q.png)  
   
-You can start a new game at anytime by pressing the "Play again" button in the bottom right corner of the window.  Have fun!
+You can start a new game at any time by pressing the "Play again" button in the bottom right corner of the window.  Have fun!
