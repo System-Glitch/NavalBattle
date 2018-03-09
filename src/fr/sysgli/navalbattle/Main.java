@@ -43,6 +43,7 @@ public class Main extends Application {
 			scene.getStylesheets().add(ResourcesLoader.class.getResource("application.css").toExternalForm());
 			
 			primaryStage.setTitle("Naval battle");
+			primaryStage.setResizable(false);
 			
 			primaryStage.getIcons().add(new Image(ResourcesLoader.class.getResource("icon_16.png").toExternalForm()));
 			primaryStage.getIcons().add(new Image(ResourcesLoader.class.getResource("icon_32.png").toExternalForm()));
